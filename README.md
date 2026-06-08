@@ -4,7 +4,7 @@
 
 Пример приложения [Beego](https://github.com/beego/beego), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-beego-721e.twc1.net)
+:tada: [Демо](https://twc-app-example-beego.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
